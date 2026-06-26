@@ -119,7 +119,6 @@ Contact
 - Dynamic gallery section
 - Admission inquiry functionality
 - Professional college branding
----
 
 ## Created by Shruthi T P
 
