@@ -1,4 +1,5 @@
 # COS College Website 🎓
+LIVE WEBSITE: https://coswebsite.netlify.app
 
 A modern, responsive, and visually appealing college website developed using HTML, CSS, and JavaScript. This project is designed to provide prospective students, parents, and visitors with comprehensive information about the institution, its academic programs, admission process, campus life, and contact details through an intuitive and user-friendly interface.
 
